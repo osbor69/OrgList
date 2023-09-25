@@ -1,0 +1,15 @@
+OrgFuncABC	= 10001
+OrgName		= 10100
+f_DirInfo       = 10106
+f_NmCdr		= 10101
+f_NmDrv		= 10102
+f_NmOrg		= 10103
+f_NmProg	= 10104
+f_NmStat	= 10105
+f_PckInfo       = 10108
+f_SysPrm        = 10107
+o_Org		= 20001
+o_Prog		= 20002
+o_Zaj		= 20003
+OrgPrmFlt	= 30002
+OrgLastCng	= 31002

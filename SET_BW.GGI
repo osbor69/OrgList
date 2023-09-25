@@ -1,0 +1,36 @@
+[SETGGW]
+AAdir
+ACdir=C:\GG\BWARH
+Adir=\\SERVER\SERVER_C\BW_ORG\( 338)BBB\
+ArjForEd=1
+ArjMetod=2
+DBSRVNAME=169.0.0.200/3080:D:\КАТАЛОГ\BW_ORG\( 338)BBB\
+FBVERS=25
+FILESFTP0
+FILESFTP1
+flData=2
+flModel=2
+flRest=2
+FtpDir=0
+IAdir=M:\t
+Idir=\\SERVER\SERVER_C\BW_ORG\( 338)BBB\
+lArjDef=1
+lData=1
+LnkUtil=F#FПрограммы\GG
+lOarj=1
+lRest=1
+lUst=1
+MinInterface=0
+Ndir=\\SERVER\SERVER_C\BW\OBNOV_25\
+Odir=C:\GG\BWOLD
+Osn=1
+OsnCng=1
+Prim=ТЕСТ НПС 2011 ос
+Protect=0
+Prov=1
+ReadyPck
+TDrv=C
+UCAdir=C:\GG\
+[GGPROG]
+PckDir=0
+Protect=0

@@ -1,0 +1,972 @@
+[IniFileData]
+Data=1
+[MoveFromDATA.SETUP]
+[PswdEd]
+DIRHELP=C:\GG\HELP
+[OrgWorkStat]
+CngEvalIntervalMin=10
+FdpFormOnView=1
+IPToHost=0
+[KeyLb]
+AllVisible=1
+[SETUP]
+IBrUpd=10
+LastUser=SYSDBA
+[Changes]
+DT15=1400796563
+DT40=1462195562
+DT5=1400796563
+DT50=1014057354
+DT507=1418227470
+DT51=991054440
+DT666=1462072282
+DT904=1417641419
+[Main]
+OtdDir
+TN=3
+[BrQuery]
+CDR.TN
+CNGV.KC="904"
+CNGVCNG.KC="507"
+DFRM.KF="¡ƒœ–Œ√"
+DOC.KD=" 40"
+LIST.FIX_C50
+LIST.KOD
+LOG.CONCATENATION="44889.5771316667001.0000000000000000"
+MDP.PATH="ARRV"
+MDT.NAME
+MDT.UPNAME="¿¡¬"
+MSG.MsgFrom.TD="202308291401"
+MSG.MsgProg.TD="200701101624"
+MSG.MsgTo.TD="202309051339"
+MSGSREGS.DSEND
+REGS.DR
+ZAJPROGORG.TDISPD="202110211502"
+[DirSortType]
+DirGet.=0
+DirGet.Dir=0
+DirGet.File=0
+DirGet.LastCng=0
+DirGet.LinkAdd=0
+OrgListHelp=0
+SftpMoveFile=0
+SftpSendFile=0
+[SFTP_OPTS]
+MOVE2DIR=\\SERVER\SERVER_C\FORM\___ÙÓÏ˚ ÓÚ Ó„‡ÌËÁ‡ˆË\121
+SENDFILE=\\SERVER\SERVER_C\BORIS\ZPW_O_œƒ\ZPW0000-000-00678.PCK
+[TDefEdit.ProgDat]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=2
+[TDefEdit.Doc.DOC040.DTG]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=0
+[DirTree.SftpSendFile]
+0=\\SERVER\SERVER_C\BORIS\ZPW_O_œƒ\ZPW0000-000-00678.PCK
+1=\\SERVER\SERVER_C\»Õ—“–” ÷»»  √”Àﬂ≈¬ √.ﬁ »  Œ\HELP\»Õ—“–” ÷»» ƒÀﬂ Õ¿—“–Œ… » (ƒÀﬂ œ–Œ√–¿ÃÃ»—“Œ¬)\«¿–œÀ¿“¿ WINDOWS\ŒÔËÒ‡ÌËÂ ÛÒÚ‡ÌÓ‚Ó˜Ì˚ı ‚ÂÒËÈ 628-.rtf
+[TDefEdit.ZajPswd]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=0
+[TDefEdit.ProgCopy]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=0
+[DirTree.SftpMoveFile]
+0=\\SERVER\SERVER_C\FORM\___ÙÓÏ˚ ÓÚ Ó„‡ÌËÁ‡ˆË\121
+1=\\SERVER\SERVER_C\FORM\___ÙÓÏ˚ ÓÚ Ó„‡ÌËÁ‡ˆË\1047
+[TSftpFiles]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=2
+[TblFld]
+CurView=0
+[TDefEdit.MDP]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TFltLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.Srv]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TSrvLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.Acc]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TAccLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.Doc.PROV]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.ProgStatus]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.ProgUser]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TMDTLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=827
+WindowState=0
+[TDefEdit.EdMemoFont]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[DirTree.DirGet.LinkAdd]
+0=C:\Dprog\Ourlib.txt
+1=C:\BIN\900.BAT
+2=C:\BIN\
+[TDefEdit.Gotoline]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[DirTree.DirGet.LastCng]
+0=«¿–œÀ¿“¿
+1=–ŒƒœÀ¿“¿
+2=C:\GG\ZPMDTEST\MODELS\LASTCNG\ ¬¿–“œÀ¿
+3=C:\GG\ZPMDTEST\MODELS\LASTCNG\«¿–œÀ¿“¿
+[TDefEdit.DMFirst]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TRecVal.MDFLT.506]
+MDDB=00000000
+MDDE=30001231
+MDDEL="++
+MDFILE="—¬≈Õƒ‘À3
+MDGVERS=0
+MDLD=F
+MDLFILE=F
+MDLGVERS=F
+MDLTHEMES=F
+MDPATH="FORM
+MDTHEMES="
+SG1=T
+SG2=F
+SG3=F
+SG4=F
+SG5=F
+ST1=1
+ST2=0
+ST3=0
+ST4=0
+ST5=0
+[TDefEdit.EdMemoProp]
+Height=687
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[Mask.TDateGet.]
+Height=500
+KeyLbPlace=1
+Left=340
+Top=247
+Width=600
+WindowState=0
+[PRN]
+Font=0001000204#Consolas
+[TDefEdit.Doc.DOC034.DTG]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDrvLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[Tree.Func]
+1=—Óı‡ÌÂÌËÂ ËÁÏÂÌÂÌËÈ
+2=‘‡ÈÎ˚
+SEL=‘‡ÈÎ˚#‘¿…À_”ƒ¿À»“‹
+[TDefEdit.Doc.DOC031.DTG]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.ProgSel]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TFormSumm]
+Height=589
+KeyLbPlace=1
+Left=297
+Top=149
+Width=807
+WindowState=0
+[MDList]
+SortType=0
+[TGFPrm]
+Height=750
+KeyLbPlace=1
+Left=324
+Top=141
+Width=839
+WindowState=0
+[TCngNum]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.Doc.DOC039.DTG]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TRecVal.PrnTxt]
+FILE="
+PBOTTOM=3
+PLEFT=3
+PRIGHT=3
+PTOP=3
+VPRN=1
+[TPrnTxt]
+Height=535
+KeyLbPlace=1
+Left=265
+RbPanelProcentWnd.PnPrm=50
+RbPanelProcentWnd.PnSpot=20
+Top=193
+Width=782
+WindowState=0
+[TDFrmEd]
+Height=643
+KeyLbPlace=1
+Left=265
+RbPanelProcentWnd.pnDat=40
+Top=163
+Width=736
+WindowState=0
+[TDefEdit.Model]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TMDList]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDFrmLs]
+Height=535
+KeyLbPlace=1
+Left=390
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.ORDFLT]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=2
+[TMsgLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TEdSchem]
+Height=621
+KeyLbPlace=1
+Left=286
+RbPanelProcentWnd.pnPg=80
+Top=116
+Width=842
+WindowState=0
+[DirTree.DirGet.File]
+0=C:\t\ORGLIST.FDB
+[TOfisLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.LinkAdd]
+Height=174
+KeyLbPlace=1
+Left=240
+Top=197
+Width=812
+WindowState=0
+[TRecVal.MDFLT.507]
+MDDB=00000000
+MDDE=30001231
+MDDEL="++
+MDFILE="œ–◊¬¡¿Õ 
+MDGVERS=0
+MDLD=F
+MDLFILE=F
+MDLGVERS=F
+MDLTHEMES=F
+MDPATH="VDCF
+MDTHEMES="
+SG1=T
+SG2=T
+SG3=F
+SG4=F
+SG5=F
+ST1=1
+ST2=0
+ST3=0
+ST4=0
+ST5=0
+[TDefEdit.Doc.DOC033.DTG]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[Tree.Var]
+SEL=¡‡Á˚ ‰‡ÌÌ˚ı .DBF
+[TIntErLs]
+Height=730
+KeyLbPlace=1
+Left=291
+RbPanelProcentWnd.pnStack=20
+Top=193
+Width=860
+WindowState=0
+[TDefEdit.Doc]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.Doc.BUH]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TGFView]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=2
+[TDefEdit.AboutUser]
+Height=282
+KeyLbPlace=1
+Left=434
+Top=356
+Width=411
+WindowState=0
+[TDefEdit.ViewDerTbl]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDWVid]
+Height=664
+KeyLbPlace=1
+Left=362
+RbPanelProcentWnd.PnLs=50
+Top=193
+Width=813
+WindowState=0
+[Tree.SearchTree]
+SEL=‘ÓÏÛÎ˚#»ÁÏÂÌÂÌËÂ ÁÌ‡˜ÂÌËˇ
+[TSearchTree]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDWPrm]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=2
+[TDWPage]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDWFld]
+Height=650
+KeyLbPlace=1
+Left=337
+RbPanelProcentWnd.PnLs=40
+Top=236
+Width=943
+WindowState=2
+[TZajLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=2
+[TDefEdit.ZAJFLT]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=2
+[TProgEd]
+Height=736
+KeyLbPlace=1
+Left=222
+RbPanelProcentWnd.pnProg=40
+Top=15
+Width=923
+WindowState=2
+[TDefEdit.ZajMov]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.ZajSelIsp]
+Height=628
+KeyLbPlace=1
+Left=240
+Top=197
+Width=802
+WindowState=0
+[DirTree.DirGet.]
+0=C:\GG\HELP
+[TDefEdit.Cng]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TMDFLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TMDPLs]
+Height=672
+KeyLbPlace=3
+Left=412
+Top=322
+Width=275
+WindowState=0
+[TRecVal.MDFLT.904]
+MDDB=20220101
+MDDE=30001231
+MDDEL="++
+MDFILE="
+MDGVERS=693
+MDLD=F
+MDLFILE=F
+MDLGVERS=F
+MDLTHEMES=F
+MDPATH="VDCF
+MDTHEMES="
+SG1=T
+SG2=F
+SG3=F
+SG4=F
+SG5=F
+SG6=F
+ST1=3
+ST2=0
+ST3=0
+ST4=0
+ST5=0
+ST6=0
+[TDefEdit.MdFlt]
+Height=553
+KeyLbPlace=1
+Left=240
+Top=197
+Width=835
+WindowState=0
+[Tree.DpHelp]
+1=¡”’√¿À“≈–»ﬂ#»Õ—“–” ÷»» œŒ œ–Œ√–¿ÃÃ≈
+[TSpList]
+Height=346
+KeyLbPlace=1
+Left=486
+Top=292
+Width=411
+WindowState=0
+[TDefEdit.SendMsg]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=0
+[DirTree.DirGet.Dir]
+0=C:\Dprog\OLBot\test
+1=C:\Dprog\OLBot\dist
+2=ZPW_ORG\(1974)(201)
+3=\\SERVER\SERVER_C\BORIS\Œ—ÕŒ¬€
+4=C:\Dprog\ZPN
+5=\\SERVER\SERVER_C\BORIS\zpw\sv
+6=O:\BORIS\zpw\sv
+7=boris_test\zpw
+[Tree.Dir]
+1=C:#DPROG#OLBOT#DIST
+2=C:#T
+3=—≈“‹#SERVER#SERVER_C
+[TDirTree]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.Sys]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDInter]
+Height=535
+History_0=—“–Œ ¿_ƒ¿“¿(42641)
+History_1=ƒ»— _Õ¿»Ã()
+History_2=œ–Œ¡≈À€_”¡–¿“‹(ƒ»— _Õ¿»Ã())
+History_3=select ko,tnfrom,tnto from msg where sel<>"D"
+History_4=select * from org
+History_5=“¬¡_«Õ¿◊≈Õ»≈(1)
+History_6=“¬¡_«Õ¿◊≈Õ»≈(2)
+History_7=“¬¡_ÕŒÃ≈–
+KeyLbPlace=1
+Left=284
+RbPanelProcentWnd.pnText=20
+Top=154
+Width=736
+WindowState=0
+[TDefEdit.LogDel]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.GlobSet]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TRecVal.LogLs]
+COMP="0
+D=F
+DB=20221123
+DE=20221124
+FLT=F
+IP="0
+KEYS=F
+LCOMP=F
+LIP=F
+LTBL=F
+LUSERNAME=F
+LVID=F
+NKEYS=0
+SKEYS="
+TBL="0
+USERNAME="0
+VID=1
+[TDefEdit.Log]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TLogLs]
+Height=535
+KeyLbPlace=1
+Left=265
+RbPanelProcentWnd.RbPanel3=80
+Top=193
+Width=736
+WindowState=2
+[TDefEdit.AboutProg]
+Height=224
+KeyLbPlace=1
+Left=476
+Top=385
+Width=328
+WindowState=0
+[TDefEdit.Cdr]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TDefEdit.Msg]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=192
+Width=800
+WindowState=2
+[Tree.TblFld]
+1=CDR
+SEL=CDR#ZAJD2
+[TTblFld]
+Height=792
+KeyLbPlace=1
+Left=265
+Top=138
+Width=736
+WindowState=0
+[TOrgLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TProgLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TDefEdit.FltInMsg]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=811
+WindowState=0
+[TFind]
+Height=214
+KeyLbPlace=1
+Left=177
+Top=0
+Width=1103
+WindowState=0
+[Tree.Oper]
+SEL=ƒÓÔÓÎÌËÚÂÎ¸Ì˚Â ÓÔÂ‡ÚÓ˚
+[TIntTree]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TEdText]
+Height=555
+KeyLbPlace=1
+Left=388
+Top=193
+Width=764
+WindowState=2
+[TDQuery]
+dq_query0=update cngv set progid=100 where kc="904"
+dq_query1=select max(recno) from ‡ÂÁ˚ÍÏ
+dq_query10=select acid from acc group by acid order by acid
+dq_query11=select acid from prog group by acid order by acid
+dq_query12=select tn from cng group by tn
+dq_query13=insert into cng (kc,tn) values ("999","888")
+dq_query14=select * from users
+dq_query15=select * from docprm
+dq_query16=select username from docprm
+dq_query17=select username from docprm group by username order by username
+dq_query18=select * from msgs
+dq_query19=select max(recno) from ¸‚Á
+dq_query2=select max(recno) from ftpsrv
+dq_query20=select max(recno) from mdp
+dq_query21=insert into mdp (recno) values (5000)
+dq_query22=insert into mdp (recno,progid) values (5001,-1)
+dq_query23=insert into mdp (recno,progid,path) values (5002,0,"DFRM")
+dq_query24=select * from mdp where progid=0
+dq_query25=update mdp set progid=1 where progid=0
+dq_query26=update mdp set progid=2 where progid=1
+dq_query27=update mdp set progid=2 where progid=0
+dq_query28=select max(recno) from mdf
+dq_query29=insert into mdf (recno) values (50000)
+dq_query3=insert into ftpsrv (recno) values (1000)
+dq_query30=insert into mdf (recno,path,file) values (50001,"DFRM","NAL2001")
+dq_query31=update mdf set kc="904" where kc is null
+dq_query32=select kc||path||file from mdf
+dq_query33=insert into mdf (recno,kc,path,file) values (50001,"999","DFRM","NAL2001")
+dq_query34=select max(recno) from mdv
+dq_query35=insert into mdv (recno,kc,path,file,vers) values (50000,"904","DFRM","NAL2001",86)
+dq_query36=select max(recno) from mdt
+dq_query37=insert into mdv (recno,kc,path,file,vers) values (50000,"904","DFRM","NAL2002",86)
+dq_query38=insert into mdv (recno) values (50001)
+dq_query39=insert into mdt (recno) values (50001)
+dq_query4=select max(recno) from acc
+dq_query40=insert into mdt (recno,kc,path,file,vers) values (50000,"904","DFRM","NAL2002",86)
+dq_query41=select * from mdt where recno>=50000
+dq_query42=update glob set vers="1.80"
+dq_query43=delete from mdv
+dq_query44=delete from mdt
+dq_query45=delete from mdf
+dq_query46=select * from mdf
+dq_query47=select * from mdv
+dq_query48=select * from cngv where kc="904"
+dq_query49=select count(*) from mdv where gvers=0
+dq_query5=insert into acc (recno) values (4000)
+dq_query50=select count(*) from mdv where d=0
+dq_query51=select d from mdv group by d order by d
+dq_query52=select d,count(*) from mdv group by d order by d
+dq_query53=select gvers,count(*) from mdv group by gvers order by gvers
+dq_query54=update glob set vers="1.82"
+dq_query55=select fmdload from regs
+dq_query56=select count(*) from mdf
+dq_query57=select count(*) from mdt
+dq_query58=select * from mdt
+dq_query59=select autor from mdv order by autor
+dq_query6=insert into acc (recno,acid) values (4000,"9999")
+dq_query60=select autor from mdv order by autor desc
+dq_query61=select autor from mdv order by autor desc,d
+dq_query62=select autor,d from mdv order by autor desc,d
+dq_query63=select autor,d from mdv order by autor desc,d desc
+dq_query64=select count(*) from mdv
+dq_query65=select count(*) from mdv where gvers>0
+dq_query66=select * from mdv where path="FORM" and file="—¬≈Õƒ‘À3"
+dq_query67=select * from dfrm
+dq_query68=update glob set vers="1.84"
+dq_query69=select ko,tnfrom,tnto from msg where sel<>"D"
+dq_query7=insert into acc (recno,acid) values (4001,"9999")
+dq_query70=select ko,tnfrom,tnto from msg where sel<>"D" and ko<>0
+dq_query71=select kod,tnfrom,tnto from msg,org where org.ko=msg.ko and sel<>"D" and ko<>0
+dq_query72=select kod,tnfrom,tnto from msg,org where org.ko=msg.ko and sel<>"D" and ko<>0 order by ko
+dq_query73=select kod,tnfrom,tnto from msg,org where org.ko=msg.ko and sel<>"D" and ko<>0 order by kod
+dq_query74=update glob set vers="1.85"
+dq_query75=select * from glob
+dq_query76=select * from globset
+dq_query77=update globset set exevers=444
+dq_query78=select ko from org order by ko
+dq_query79=select * from org order by ko
+dq_query8=select acid from prog group by acid
+dq_query80=select * from org
+dq_query81=select fix_n5 from list
+dq_query82=select fix_n5 from list order by fix_n5
+dq_query83=select fix_n5 from list where vidno="  5" order by fix_n5
+dq_query84=select fix_n5fix_c50 from list where vidno="  5" order by fix_n5
+dq_query85=select fix_n5,fix_c50 from list where vidno="  5" order by fix_n5
+dq_query86=select * from MDP where PROGID=1 and PATH like "VDCF%" order by PATH
+dq_query87=select * from MDP where PROGID=1 order by PATH
+dq_query88=select * from MDP where PATH like "VDCF%" order by PATH
+dq_query89=select * from msg where recno=99
+dq_query9=select acid from acc group by acid
+dq_query90=select * from msg where recno=99+50
+dq_query91=update glob set vers="1.89"
+dq_query92=select exevers from globset
+dq_query93=update globset set exevers=458
+dq_query94=select sel from msg group by sel
+dq_query95=select sel,count(*) from msg group by sel
+dq_query96=update msg set sel="F" where sel=""
+dq_query97=select dbmsg from cdr
+dq_query98=select td from msg
+dq_query99=update glob set vers="1.90"
+Height=535
+KeyLbPlace=1
+Left=284
+RbPanelProcentWnd.pnText=20
+Top=154
+Width=736
+WindowState=2
+[TDefEdit.INTRBASE]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=925
+WindowState=0
+[TDefEdit.PrmLocal]
+Height=600
+KeyLbPlace=1
+Left=240
+Top=197
+Width=800
+WindowState=0
+[TLockLst]
+Height=535
+KeyLbPlace=1
+Left=318
+Top=292
+Width=736
+WindowState=2
+[TLastCngLs]
+Height=717
+KeyLbPlace=1
+Left=305
+RbPanelProcentWnd.RbPanel3=50
+Top=193
+Width=938
+WindowState=0
+[THelpLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=2
+[Tree.Help]
+1=¡Ë·ÎËÓÚÂÍ‡
+SEL=œÓÒÎÂ‰ÌËÂ ËÁÏÂÌÂÌËˇ
+[THelpTree]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TStat]
+Height=117
+KeyLbPlace=1
+Left=460
+Top=438
+Width=360
+WindowState=0
+[TRecVal.EdGenFr]
+AutoSaveIntv=300
+[TEdGenFr]
+Height=727
+KeyLbPlace=1
+Left=150
+Top=1
+Width=969
+WindowState=2
+[TCdrLs]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TMain]
+Height=795
+KeyLbPlace=1
+Left=234
+RbPanelProcentWnd.pnOrgDat=33
+Top=0
+Width=942
+WindowState=2
+[TMsgLst]
+Height=535
+KeyLbPlace=1
+Left=265
+Top=193
+Width=736
+WindowState=0
+[TPswdEd]
+Height=547
+KeyLbPlace=1
+Left=525
+Top=223
+Width=755
+WindowState=0

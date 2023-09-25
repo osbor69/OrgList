@@ -1,0 +1,2 @@
+alter table regs add constraint regs_u_usernum unique (usernum)
+alter table log add constraint log_u_ unique (d,usernum,un,nprim)

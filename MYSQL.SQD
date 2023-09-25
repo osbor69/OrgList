@@ -1,0 +1,4 @@
+drop index memo_fld on memo
+drop index memo_gknpp on memo
+drop index prog_kocp on prog
+drop index zaj_kocp on zaj

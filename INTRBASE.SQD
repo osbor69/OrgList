@@ -1,0 +1,32 @@
+drop index memo_fld
+drop index memo_gknpp
+drop index prog_kocp
+drop index zaj_kocp
+alter table zaj drop constraint zaj_u_recno
+alter table msg drop constraint msg_u_recno
+drop index ofis_r
+drop index org_r
+drop index prog_r
+drop index ORG_KO
+drop index ZAJ_CP
+drop index PROG_CP
+drop index MDT_U
+alter table cdr drop constraint cdr_u_recno
+alter table dcmbmp drop constraint dcmbmp_u_recno
+alter table docprm drop constraint docprm_u_recno
+alter table drv drop constraint drv_u_recno
+alter table glob drop constraint glob_u_recno
+alter table org drop constraint org_u_recno
+alter table prog drop constraint prog_u_recno
+alter table spdb drop constraint spdb_u_recno
+alter table flt drop constraint flt_u_recno
+alter table dcm drop constraint dcm_u_recno
+alter table doc drop constraint doc_u_recno
+alter table ofis drop constraint ofis_u_recno
+alter table cngv drop constraint cngv_u_recno
+alter table rgn drop constraint rgn_u_recno
+alter table terr drop constraint terr_u_recno
+alter table acc drop constraint acc_u_recno
+alter table ftpsrv drop constraint ftpsrv_u_recno
+alter table mdf drop constraint mdf_u_
+alter table mdv drop constraint mdv_u_

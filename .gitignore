@@ -1,0 +1,12 @@
+DATA/
+LOG/
+MODELS/
+TMP/
+TMPDB/
+*.dtg
+farmenu.ini
+*.exe
+*.dpq
+*.sum
+srvlog.txt
+*.~*

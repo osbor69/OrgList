@@ -1,0 +1,4 @@
+create index memo_fld on memo (fld)
+create index memo_gknpp on memo (gk,npp)
+create index prog_kocp on prog (ko,cp)
+create index zaj_kocp on zaj (ko,cp)
