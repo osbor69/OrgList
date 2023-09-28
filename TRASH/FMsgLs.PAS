@@ -205,7 +205,7 @@ begin
   IncAnd(s);
   v:=Cdr['TNMSG'];
   if not empty(v) then begin
-    tn:=QQs(Cdr[fCDR]); v:='='+My_pr.QQs(v);
+    tn:=My_pr.QQs(Cdr[fCDR]); v:='='+My_pr.QQs(v);
     IncAnd(s,BrackNoEmp(fMsgTNTO+'='+tn+sAND+fMsgTNFROM+v+sOR+fMsgTNTO+'<>'+tn+sAND+fMsgTNTO+v)); //QryCalcFields
   end;
   for fl:=false to true do with aFltD[fl] do
